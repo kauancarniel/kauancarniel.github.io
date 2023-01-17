@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+#foto {
+    border-radius: 58px;
+}
+body {
+    background-color: rgba(94, 153, 135, 0.514);
+    font-family: sans-serif;
+}
+.lista {
+    text-decoration: underline;
+    font-style: italic;
+}
